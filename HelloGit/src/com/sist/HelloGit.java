@@ -6,5 +6,6 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Git!");
 		System.out.println("What's git?");
+		System.out.println("It's collaboration");
 	}
 }
